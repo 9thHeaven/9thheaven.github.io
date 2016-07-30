@@ -102,10 +102,13 @@ clear: both;
 
 
 .main {
-    background-color
-        height: 700px;
+    .main {
+    background-color:#ffffff; 
+        height: 800px;
         width: 740px;
         float:right;
+    
+}
     
 }
 
@@ -124,7 +127,6 @@ clear: both;
     text-align: center;
     height: 30px;
     clear: both;
-    position:relative;
 }
 
 
