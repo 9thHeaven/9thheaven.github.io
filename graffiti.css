@@ -54,9 +54,8 @@ li a:hover {
 }
 
 .footer{
-    clear: both;
-    position: relative;
-    top:10px;
+clear: both;
+    height:40px;
     width:900px;
     font-family:'Permanent Marker','Open Sans', Arial, cursive,sans-serif;
     text-align: center;
