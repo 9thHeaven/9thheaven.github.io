@@ -19,7 +19,7 @@ body{
     list-style-type: none;
     margin: 0;
     padding: 10px;
-    height: 620px;
+    height: 800px;
     width: 200px;
     color:#595959;
     background-color: #ffffff;/* Note to self-change back to white when done*/
@@ -42,14 +42,14 @@ li a:hover {
 .somewords{
     float:left;
     width:300px;
-    height:620px;
+    height:800px;
     margin-left:10px;
     font-family:'Open Sans', Arial, sans-serif;
 }
 
 .imagemask{
     float:right;
-    height: 620px;
+    height: 800px;
     width:400px;
 }
 
